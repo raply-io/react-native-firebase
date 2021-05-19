@@ -361,6 +361,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = YYX2P3XVJ7;
+				"EXCLUDED_ARCHS[sdk=*]" = i386;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-firebase/Firebase.framework/Headers/**",
@@ -394,6 +395,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YYX2P3XVJ7;
+				"EXCLUDED_ARCHS[sdk=*]" = i386;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-firebase/Firebase.framework/Headers/**",

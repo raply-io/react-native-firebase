@@ -9,6 +9,7 @@
   "dependencies": {
     "@react-native-firebase/analytics": "12.4.0",
     "@react-native-firebase/app": "12.4.0",
+    "@react-native-firebase/app-check": "12.4.0",
     "@react-native-firebase/app-types": "6.7.2",
     "@react-native-firebase/auth": "12.4.0",
     "@react-native-firebase/crashlytics": "12.4.0",
@@ -35,6 +36,7 @@
     "jest-circus": "^27.0.6",
     "jest-environment-node": "^27.0.6",
     "jet": "^0.6.6-0",
+    "jsonwebtoken": "^8.5.1",
     "metro-react-native-babel-preset": "0.66.2",
     "mocha": "^9.0.3",
     "nyc": "^15.0.1",
